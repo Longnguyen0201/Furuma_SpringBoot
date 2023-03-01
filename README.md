@@ -1,1 +1,1 @@
-# ShopStore_SpringMVC_Hibernate
+# ShopStore_SpringBoot
