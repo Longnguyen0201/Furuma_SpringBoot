@@ -1,1 +1,1 @@
-# ShopStore_SpringBoot
+# Furuma_SpringBoot
